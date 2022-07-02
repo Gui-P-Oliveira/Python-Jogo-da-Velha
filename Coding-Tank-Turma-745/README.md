@@ -1,8 +1,8 @@
 # Proposta do projeto
 
 O jogo da velha foi o projeto final do curso prepatório Coding-Tank e processo seletivo para a entrada no curso de Web Full Stack da instituição Let's Code.
--- O curso foi ministrado na linguagem Python e abordou a lógica de programação juntamente com os principais conceitos e ferramentas da linguagem sendo alguns deles a apresentação aos: tipos primitivios, operadores lógicos e condicionais, arrays, loops, funções e dicionários.
--Com esse conhecimento adiquirido foi proposta a criação do jogo da velha utilizando um documento com extensão .ipynb rodando no servidor Jupyter Notebook.O jogo não utiliza nenhum recurso visual avançado e os comandos são digitados na janela de input que aparece na tela. 
+-- O curso foi ministrado na linguagem Python e abordou a lógica de programação juntamente com os principais conceitos e ferramentas da linguagem sendo alguns deles a apresentação aos: tipos primitivios, operadores lógicos e condicionais, listas, loops, funções e dicionários.
+-Com esse conhecimento adiquirido foi proposta a criação do jogo da velha utilizando um documento com extensão .ipynb rodando na aplicação Jupyter Notebook.O jogo não utiliza nenhum recurso visual e os comandos são digitados na janela de input que aparece na tela. 
 
 ## Requisitos obrigatórios
 
@@ -20,6 +20,12 @@ O jogo da velha foi o projeto final do curso prepatório Coding-Tank e processo 
 
 - Abra o arquivo Projeto Jogo da Velha-Guilherme Oliveira.ipynb utilizando o jupyter notebook. Sugestão de guia para a instalação e uso [Jupyter Notebook](https://jupyter.org/).
 - Escolha a linha (1 a 3) e coluna (1 a 3) desejada digitando no campo de input.
-- Caso seja digitada uma posição já ocupada a jogada não será realizada. Será apresentada uma mensagem informando o ocorrido e o jogador terá que digitar outra posição.
+- Caso seja digitada uma posição já ocupada a jogada não será realizada. Será apresentada uma mensagem informando o ocorrido e o jogador terá que digitar outra posição.<br><br>
+![Jogada repetida_Jogo da velha!](https://github.com/Gui-P-Oliveira/Python-Jogo-da-Velha/blob/main/Coding-Tank-Turma-745/Assets/Images/jogada_repetida.png)
 - Ganha o jogador que conseguir colocar 3 símbolos em linha no tabuleiro, seja na vertical, horizontal ou diagonal. Uma mensagem informando o vencendor será exibida.
+<br><br>
+![Ganhador_Jogo da velha!](https://github.com/Gui-P-Oliveira/Python-Jogo-da-Velha/blob/main/Coding-Tank-Turma-745/Assets/Images/vitoria.png)
 - Caso não haja nenhum vencedor ao final de todas as jogadas uma mensagem de empate será exibida.
+<br><br>
+![Empate_Jogo da velha!](https://github.com/Gui-P-Oliveira/Python-Jogo-da-Velha/blob/main/Coding-Tank-Turma-745/Assets/Images/empate.png)
+- Para reiniciar uma partida vá até o botão Kernel e escolha a opção restart and clear output
