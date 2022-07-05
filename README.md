@@ -1,8 +1,8 @@
 # Proposta do projeto
 
-O jogo da velha foi o projeto final do curso prepatório Coding-Tank e processo seletivo para a entrada no curso de Web Full Stack da instituição Let's Code.
--- O curso foi ministrado na linguagem Python e abordou a lógica de programação juntamente com os principais conceitos e ferramentas da linguagem sendo alguns deles a apresentação aos: tipos primitivios, operadores lógicos e condicionais, listas, loops, funções e dicionários.
--Com esse conhecimento adiquirido foi proposta a criação do jogo da velha utilizando um documento com extensão .ipynb rodando na aplicação Jupyter Notebook.O jogo não utiliza nenhum recurso visual e os comandos são digitados na janela de input que aparece na tela. 
+O jogo da velha foi o projeto final do curso prepatório Coding-Tank e processo seletivo para a entrada no curso de Web Full Stack da instituição Let's Code Academy.  
+O curso foi ministrado na linguagem Python e abordou a lógica de programação juntamente com os principais conceitos e ferramentas da linguagem sendo alguns deles a apresentação aos: tipos primitivios, operadores lógicos e condicionais, listas, loops, funções e dicionários.  
+Com esse conhecimento adiquirido foi proposta a criação do jogo da velha utilizando um documento com extensão .ipynb rodando na aplicação Jupyter Notebook.O jogo não utiliza nenhum recurso visual e os comandos são digitados na janela de input que aparece na tela. 
 
 ## Requisitos obrigatórios
 
