@@ -28,4 +28,11 @@ O jogo da velha foi o projeto final do curso prepatório Coding-Tank e processo 
 - Caso não haja nenhum vencedor ao final de todas as jogadas uma mensagem de empate será exibida.
 <br><br>
 ![Empate_Jogo da velha!](https://github.com/Gui-P-Oliveira/Python-Jogo-da-Velha/blob/main/Coding-Tank-Turma-745/Assets/Images/empate.png)
-- Para reiniciar uma partida vá até o botão Kernel e escolha a opção restart and clear output
+- Para **reiniciar** uma partida vá até o botão **Kernel** e escolha a opção **restart and clear output**.  
+
+## Próximos passos
+
+- Refatorar o código de forma que sejam evitadas repetições desnecessárias e melhorar as funções existentes para que não tenham mais de uma competência.
+- Adicionar um contador de partidas ganhas pelo jogador 1 e 2.
+- Adicionar um comando para encerrar sequência de partidas e reiniciar. 
+
